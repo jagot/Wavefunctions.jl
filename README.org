@@ -6,3 +6,4 @@
 [[https://coveralls.io/github/jagot/Wavefunctions.jl?branch=master][https://coveralls.io/repos/jagot/Wavefunctions.jl/badge.svg?branch=master&service=github]]
 [[http://codecov.io/github/jagot/Wavefunctions.jl?branch=master][http://codecov.io/github/jagot/Wavefunctions.jl/coverage.svg?branch=master]]
 
+A small library for storing spatially discretized wavefunctions.
