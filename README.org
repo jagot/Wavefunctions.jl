@@ -1,0 +1,8 @@
+#+TITLE: Wavefunctions.jl
+#+AUTHOR: Stefanos Carlström
+#+EMAIL: stefanos.carlstrom@gmail.com
+
+[[https://travis-ci.org/jagot/Wavefunctions.jl][https://travis-ci.org/jagot/Wavefunctions.jl.svg?branch=master]]
+[[https://coveralls.io/github/jagot/Wavefunctions.jl?branch=master][https://coveralls.io/repos/jagot/Wavefunctions.jl/badge.svg?branch=master&service=github]]
+[[http://codecov.io/github/jagot/Wavefunctions.jl?branch=master][http://codecov.io/github/jagot/Wavefunctions.jl/coverage.svg?branch=master]]
+
